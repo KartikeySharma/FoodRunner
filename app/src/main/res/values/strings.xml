@@ -1,0 +1,74 @@
+<resources>
+
+    <string name="app_name">FoodRunner</string>
+    <string name="mobile_number_10_digits">Mobile Number (10 digits)</string>
+    <string name="Password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="don_t_have_an_account_sign_up_now">Don\'t have an account? Sign up now.</string>
+    <string name="shared_preferences">RestaurantPreference</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="add_to_cart_btn">Add</string>
+    <string name="proceed_to_cart_btn">Proceed to Cart</string>
+    <string name="choose_from_menu_listed_below">Choose from menu listed below:</string>
+    <string name="ordering_from">Ordering From: </string>
+    <string name="place_order">Place Order (Rs)</string>
+
+    <string name="your_previous_orders_are_listed_below">Your previous orders are listed below:</string>
+    <string name="your_order_has_been_placed_successfully">Your order has been placed successfully!</string>
+    <string name="ok">OK</string>
+    <string name="search_restaurants">Search Restaurants</string>
+    <string name="enter_the_otp_received_below">Enter the OTP received below</string>
+    <string name="otp_4_characters">OTP (4 characters)</string>
+    <string name="otp_will_be_send_to_the_registered_email">OTP will be send to the registered email id</string>
+    <string name="enter_the_following_details">Enter the following details</string>
+    <string name="next">Next</string>
+    <string name="register">Register</string>
+    <string name="_300_person">300/person</string>
+    <string name="_4_5">4.5</string>
+    <string name="kartikey_sharma">Kartikey Sharma</string>
+    <string name="pind_tadka">Pind Tadka</string>
+    <string name="_22_12_2018">22/12/2018</string>
+    <string name="rs_200">Rs.200</string>
+    <string name="cost_low_to_high">Cost (Low to High)</string>
+    <string name="cost_high_to_low">Cost (High to Low)</string>
+    <string name="rating">Rating</string>
+    <string name="add">Add</string>
+    <string name="remove">Remove</string>
+    <string name="name_min_3_characters">Name (Min 3 characters)</string>
+    <string name="email_address">Email Address</string>
+    <string name="delivery_address">Delivery Address</string>
+    <string name="password_min_4_digits">Password (Min 4 digits)</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="you_do_not_have_any_favourite_restaurants">You do not have any favourite restaurants</string>
+    <string name="you_haven_t_placed_any_orders_yet">You haven\'t placed any orders yet!</string>
+    <string name="rs_400">Rs. 400</string>
+    <string name="default_number">+91 1234567890</string>
+    <string name="no_restaurants_found">No Restaurants Found</string>
+
+    <!-- Questions and Answers for FAQs-->
+    <string name="question1">Q1. Why is Food Runner doing this?</string>
+    <string name="answer1">A1. At Food Runner we always strive to add value to your business. We understand the challenges you face on a
+        daily basis in sourcing the best quality packaging material.Food Runner Packaging Assist is here to take care of all your packaging needs.</string>
+    <string name="question2">Q2. How are you guys different from other delivery apps?</string>
+    <string name="answer2">
+        A2. Best products - We only list the products which have passed our tests and are best suitable for delivery.
+        They will help in giving a better consumer experience, so you can get repeated orders from satisfied customers.\n\nBest prices - We have
+        negotiated rates with our distributors exclusively for FoodRunner Restaurant.\n\nConvenience - No need to haggle for prices.
+        No need to follow-up on delivery. We track all orders to ensure you have a hassle free experience.</string>
+    <string name="question3">Q3. Can I order from 2 or more restaurants at the same time?</string>
+    <string name="answer3">A3. No. At the moment we only allow orders to be placed from one restaurant. Each restaurant has a huge variety to
+        choose from and we believe you won\'t be disappointed.</string>
+    <string name="question4">Q4. How do I know my order has been confirmed?</string>
+    <string name="answer4">A4. We will send you a notification to your mobile every time you place an order. You will
+        also be able to view the order in Order History once it has been placed successfully.</string>
+    <string name="question5">Q5. When are you getting more restaurants as partners?</string>
+    <string name="answer5">A5. We would like to deliver for as many restaurants as possible. However, we must establish a relationship
+        agreement with the restaurant to become partners with them.\n\nYou can help by telling your favorite restaurant\'s owner/manager
+        you want us to deliver their food to you.</string>
+    <string name="register_yourself">Register Yourself</string>
+    <string name="new_password_min_4_digits">New Password (Min 4 digits)</string>
+    <string name="submit">Submit</string>
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d85050</color>
+    <color name="colorPrimaryDark">#dd1b1b</color>
+    <color name="colorAccent">#FF5139</color>
+    <color name="colorLogoMain">#ff6753</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="cost_for_one">#757575</color>
+    <color name="colorGrey">#909090</color>
+
+</resources><!--originla primary FF5139
+primary dark EC1D00-->
