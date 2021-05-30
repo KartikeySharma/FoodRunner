@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="460" height="300" src="https://github.com/KartikeySharma/FoodRunner-App/blob/master/app/src/main/res/drawable/food_runner_logo.png">
+</p>
+
 # FoodRunner-App
 Android App for ordering food online build using Kotlin and XML
 
