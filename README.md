@@ -46,7 +46,7 @@ The app also uses the Room library to send data to the SQLite local database.
 </p>
 
 <p align="left">
-  <img width="300" height="600" src="https://github.com/KartikeySharma/FoodRunner-App/blob/master/Screenshots/6.Navigation_Drawer.jpeg">
+  <img width="300" height="600" src="https://github.com/KartikeySharma/FoodRunner-App/blob/master/Screenshots/21.Order_Placed_Sucessfully.jpeg">
 </p>
 
 
