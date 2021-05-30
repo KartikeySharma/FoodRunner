@@ -4,14 +4,14 @@ Android App for ordering food online build using Kotlin and XML
 The app is built in Kotlin and uses Volley library to send GET and POST requests through REST api calls.
 The app also uses the Room library to send data to the SQLite local database.
 
-Main features considered while developing
+### Main features learned while developing the app
 1. Recycler Views
 2. Fragments
 3. Room Library
 4. Volley
 5. Adapters
 
-How to contribute.
+## How to contribute
 1.Click the fork button to get the repo to your account.
 2.Copy the git clone link from your account.
 3.Open android studio, and select File->New->import from version control(github).
@@ -26,3 +26,5 @@ How to contribute.
 9.Push the files to your fork.
 10. Create a Pull Request and comment briefly of the improvements/changes you made.
 11. I will check it out and merge it if it looks good.
+
+## Some screenshots of the app
