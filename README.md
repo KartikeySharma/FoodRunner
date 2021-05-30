@@ -16,19 +16,19 @@ The app also uses the Room library to send data to the SQLite local database.
 5. Adapters
 
 ## How to contribute
-1.Click the fork button to get the repo to your account.
-2.Copy the git clone link from your account.
-3.Open android studio, and select File->New->import from version control(github).
-4.Paste the link you copied in step 2.
-5.Wait for all the files to get synced.
-6.Create a new branch from master
-  a.In the bottom right you'll find git-master(click)
-  b.Select new branch
-  c.Name it as work_YourName.
-7.Add new features/bug fixes.
-8.Commit only those files which you have changed (Don't commit .idea or .gradle files).
-9.Push the files to your fork.
-10. Create a Pull Request and comment briefly of the improvements/changes you made.
-11. I will check it out and merge it if it looks good.
+- Click the fork button to get the repo to your account.
+- Copy the git clone link from your account.
+- Open android studio, and select File->New->import from version control(github).
+- Paste the link you copied in step 2.
+- Wait for all the files to get synced.
+- Create a new branch from master
+  - In the bottom right you'll find git-master(click)
+  - Select new branch
+  - Name it as work_YourName.
+- Add new features/bug fixes.
+- Commit only those files which you have changed (Don't commit .idea or .gradle files).
+- Push the files to your fork.
+- Create a Pull Request and comment briefly of the improvements/changes you made.
+- I will check it out and merge it if it looks good.
 
 ## Some screenshots of the app
