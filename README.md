@@ -32,3 +32,8 @@ The app also uses the Room library to send data to the SQLite local database.
 - I will check it out and merge it if it looks good.
 
 ## Some screenshots of the app
+
+<p align="left">
+  <img width="150" height="300" src="https://github.com/KartikeySharma/FoodRunner-App/blob/master/Screenshots/6.Navigation_Drawer.jpeg">
+</p>
+
