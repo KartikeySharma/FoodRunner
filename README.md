@@ -19,7 +19,7 @@ The app also uses the Room library to send data to the SQLite local database.
 - Click the fork button to get the repo to your account.
 - Copy the git clone link from your account.
 - Open android studio, and select File->New->import from version control(github).
-- Paste the link you copied in step 2.
+- Paste the git clone link you copied in step 2.
 - Wait for all the files to get synced.
 - Create a new branch from master
   - In the bottom right you'll find git-master(click)
